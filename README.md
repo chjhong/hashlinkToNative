@@ -10,6 +10,5 @@ Without further changes the structure is following:
 
 ## MSBUILD
  
-comiple line
- 
+>
  `cl out/main.c libhl.lib ui.lib openal.lib fmt.lib directx.lib /O2 /I out /I ./hashlink-1.8/src /link /LIBPATH:./hl-1.8.0-win /OUT:main.exe`
