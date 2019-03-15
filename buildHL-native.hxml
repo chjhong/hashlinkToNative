@@ -1,0 +1,9 @@
+-cp src
+-lib heaps
+-lib hldx
+-hl out/main.c
+-D analyzer-optimize
+-D resourcesPath=res
+-main Main
+
+

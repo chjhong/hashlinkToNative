@@ -1,0 +1,7 @@
+-cp src
+-lib heaps
+-lib hlsdl
+-hl mainSDL.hl
+-D analyzer-optimize
+-D resourcesPath=res
+-main Main
